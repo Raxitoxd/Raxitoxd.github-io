@@ -1,3 +1,7 @@
+body{
+    background-color: rgb(206, 226, 248);
+}
+
 .encabezado{
     background: rgb(151, 225, 243);
 background: linear-gradient(266deg, rgb(255, 255, 255) 0%, rgb(255, 255, 255) 78%);
@@ -20,4 +24,11 @@ background: linear-gradient(266deg, rgb(255, 255, 255) 0%, rgb(255, 255, 255) 78
 
 .filaform{
     width: 60%;
+}
+
+footer{
+    background-color: rgb(27, 27, 49);
+    margin-top: 100px;
+    height: 150px;
+    color:aliceblue
 }
